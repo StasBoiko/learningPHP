@@ -1,0 +1,1 @@
+a:2:{i:0;a:5:{s:4:"name";s:18:"Владислав";s:5:"sname";s:20:"Чабаненеко";s:5:"login";s:7:"vladnpr";s:8:"password";s:6:"123456";s:5:"email";s:13:"vladnpr@ua.fm";}i:1;a:5:{s:4:"name";s:8:"Иван";s:5:"sname";s:12:"Иванов";s:5:"login";s:4:"Vano";s:8:"password";s:4:"vano";s:5:"email";s:12:"vano@mail.ru";}}
